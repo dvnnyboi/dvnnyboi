@@ -1,5 +1,5 @@
 # Daniel Lim
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvmmyboi&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnnyboi&layout=compact&theme=midnight-purple)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imda95)](https://solved.ac/imda95/)
 
 <hr/>
