@@ -1,16 +1,15 @@
-### Hi there 👋
+# Daniel Lim
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnnyboi)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v1/generate_badge?boj={imda95})]
+(https://solved.ac/imda95)
 
-<!--
-**dvnnyboi/dvnnyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages :  
+
+![C](https://img.shields.io/badge/-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
+
+
+<hr/>
