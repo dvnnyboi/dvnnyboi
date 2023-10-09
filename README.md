@@ -1,4 +1,4 @@
-# Daniel Lim
+# Hi there, I'm Danny
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imda95)](https://solved.ac/imda95/)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnnyboi&layout=compact&theme=midnight-purple)
 
