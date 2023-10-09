@@ -1,5 +1,5 @@
 # Daniel Lim
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnnyboi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnnyboi)](https://github.com/anuraghazra/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v1/generate_badge?boj={imda95})]
 (https://solved.ac/imda95)
 
