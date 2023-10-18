@@ -1,6 +1,6 @@
 # Hi there, I'm Danny
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imda95)](https://solved.ac/imda95/)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnnyboi&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnnyboi&layout=compact&theme=midnight-purple)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnnyboi)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
